@@ -1,4 +1,4 @@
-module utility
+module github.com/gmcom2011/utility-go
 
 go 1.19
 
