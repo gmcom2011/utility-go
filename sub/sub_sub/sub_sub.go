@@ -5,6 +5,6 @@ import (
 	"fmt"
 )
 
-func main() {
+func SubSub() {
     fmt.Println("Hello Sub Sub",quote.Go())
 }
