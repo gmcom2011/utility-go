@@ -7,6 +7,7 @@ import (
 )
 
 func Sub() {
-    fmt.Println("Hello SubSub", sub_sub.SubSub())
+	sub_sub.SubSub()
+    fmt.Println("Hello SubSub")
     fmt.Println("Hello Sub",quote.Go())
 }
